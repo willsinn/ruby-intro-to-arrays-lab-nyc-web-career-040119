@@ -15,4 +15,4 @@ def third_element(array)
 end
 
 def last_element(array)
-  return array[]
+  return array[array.length]
